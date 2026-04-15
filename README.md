@@ -45,6 +45,5 @@ A dedicated **Information Systems** student at **Universitas Mercu Buana** with 
 ---
 
 ### 📫 Let's Connect!
-- 🔭 I’m currently working on **Data-driven Research at Mercu Buana**
-- 🌱 Learning **Advanced Machine Learning & Deep Learning**
+- 🌱 Learning **Advanced Machine Learning & Deep Learning** & **Framework Web**
 - ⚡ Fun fact: I'm a big fan of **AS Roma** and enjoy strategic games like Football Manager.
