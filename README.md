@@ -9,7 +9,7 @@
   </a>
 </p>
 
-### 🚀 Data Analyst | Certified Business Intelligence Analyst (BNSP)
+### 🚀 Data Analyst | Business Intelligence | Web Development
 A dedicated **Information Systems** student at **Universitas Mercu Buana** with a strong focus on transforming complex datasets into actionable business insights. Experienced in technical analysis, full-stack development (MERN & Laravel), and professional data modeling.
 
 ---
@@ -19,7 +19,7 @@ A dedicated **Information Systems** student at **Universitas Mercu Buana** with 
 - **Data Analysis & Science:** Python (Pandas, NumPy), R, Machine Learning (TensorFlow)
 - **Business Intelligence:** SQL (PostgreSQL, MySQL), Power BI/Tableau, Data Visualization
 - **Web Development:** MERN Stack, Next.js, Laravel, Supabase
-- **Tools:** Git, Docker, Google Cloud Platform, Figma
+- **Tools:** Git, Google Cloud Platform, Figma
 
 ---
 
